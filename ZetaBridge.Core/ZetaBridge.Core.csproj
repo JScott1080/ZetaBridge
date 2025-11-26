@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="TwitchLib.Api" Version="3.10.2" />
+    <PackageReference Include="TwitchLib.Client" Version="4.0.1" />
+  </ItemGroup>
+
 </Project>

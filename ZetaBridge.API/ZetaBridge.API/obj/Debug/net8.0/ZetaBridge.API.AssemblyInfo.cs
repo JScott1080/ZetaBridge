@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZetaBridge.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cd7c56ff8210a401ca591fe90a2b7c91c696b7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0c5a341af62f7b7e0bb11ea73df6be8206ed4c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZetaBridge.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZetaBridge.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
