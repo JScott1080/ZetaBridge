@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZetaBridge.API", "ZetaBridge.API\ZetaBridge.API\ZetaBridge.API.csproj", "{E8FEE275-59EB-E2A6-09E9-1090602D015F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZetaBridge.Core", "ZetaBridge.Core\ZetaBridge.Core.csproj", "{0B402E73-AD20-BCD0-FA6C-E01A5F170506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZetaBridge.Dashboard", "ZetaBridge.Dashboard\ZetaBridge.Dashboard.csproj", "{A9CA4E87-E29F-3E4B-AC40-46B2693EF66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZetaBridge.Tests", "ZetaBridge.Tests\ZetaBridge.Tests.csproj", "{5931084D-5531-D2A2-3CCA-8374523B1488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8FEE275-59EB-E2A6-09E9-1090602D015F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FEE275-59EB-E2A6-09E9-1090602D015F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FEE275-59EB-E2A6-09E9-1090602D015F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FEE275-59EB-E2A6-09E9-1090602D015F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B402E73-AD20-BCD0-FA6C-E01A5F170506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B402E73-AD20-BCD0-FA6C-E01A5F170506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B402E73-AD20-BCD0-FA6C-E01A5F170506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B402E73-AD20-BCD0-FA6C-E01A5F170506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CA4E87-E29F-3E4B-AC40-46B2693EF66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CA4E87-E29F-3E4B-AC40-46B2693EF66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CA4E87-E29F-3E4B-AC40-46B2693EF66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CA4E87-E29F-3E4B-AC40-46B2693EF66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5931084D-5531-D2A2-3CCA-8374523B1488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5931084D-5531-D2A2-3CCA-8374523B1488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5931084D-5531-D2A2-3CCA-8374523B1488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5931084D-5531-D2A2-3CCA-8374523B1488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AD51222-A4A7-44A9-A9C2-C157740CD014}
+	EndGlobalSection
+EndGlobal

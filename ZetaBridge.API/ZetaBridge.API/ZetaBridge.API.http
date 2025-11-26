@@ -1,0 +1,6 @@
+@ZetaBridge.API_HostAddress = http://localhost:5111
+
+GET {{ZetaBridge.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
