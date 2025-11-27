@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZetaBridge.Dashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0c5a341af62f7b7e0bb11ea73df6be8206ed4c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d56d1f9a8903abd9521bebb344cc560f1274d659")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZetaBridge.Dashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZetaBridge.Dashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

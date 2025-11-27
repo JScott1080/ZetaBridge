@@ -9,6 +9,24 @@ namespace ZetaBridge.API
     {
         private readonly TwitchConnections _twitch;
 
+        public TwitchController(TwitchConnections twitch)
+        {
+            _twitch = twitch;
+        }
+
+        [HttpPost("connect")]
+        public IActionResult Connect()
+        {
+            _twitch.Connect();
+            return Ok("Twitch connected");
+        }
+
+        [HttpPost("send")]
+        public IActionResult Send([FromBody] string message)
+        {
+            _twitch.SendMessage(message);
+            return Ok("Message sent");
+        }
 
     }
 }
