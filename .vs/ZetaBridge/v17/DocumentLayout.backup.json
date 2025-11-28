@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8FEE275-59EB-E2A6-09E9-1090602D015F}|ZetaBridge.API\\ZetaBridge.API\\ZetaBridge.API.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.api\\zetabridge.api\\twitchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8FEE275-59EB-E2A6-09E9-1090602D015F}|ZetaBridge.API\\ZetaBridge.API\\ZetaBridge.API.csproj|solutionrelative:zetabridge.api\\zetabridge.api\\twitchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\services\\twitchhelixdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\services\\twitchhelixdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\models\\predictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\models\\predictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\services\\twitchconnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\services\\twitchconnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01747EB7-5A70-9F07-4E3B-98CCCE6E742C}|ZetaBridge.API\\ZetaBridge.API.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.api\\data\\zetabridgecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01747EB7-5A70-9F07-4E3B-98CCCE6E742C}|ZetaBridge.API\\ZetaBridge.API.csproj|solutionrelative:zetabridge.api\\data\\zetabridgecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,33 +29,59 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TwitchController.cs",
-              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\ZetaBridge.API\\TwitchController.cs",
-              "RelativeDocumentMoniker": "ZetaBridge.API\\ZetaBridge.API\\TwitchController.cs",
-              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\ZetaBridge.API\\TwitchController.cs",
-              "RelativeToolTip": "ZetaBridge.API\\ZetaBridge.API\\TwitchController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Predictions.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Predictions.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.Core\\Models\\Predictions.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Predictions.cs",
+              "RelativeToolTip": "ZetaBridge.Core\\Models\\Predictions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T04:44:50.729Z",
+              "WhenOpened": "2025-11-28T06:21:02.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "TwitchHelixDriver.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Services\\TwitchHelixDriver.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.Core\\Services\\TwitchHelixDriver.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Services\\TwitchHelixDriver.cs",
+              "RelativeToolTip": "ZetaBridge.Core\\Services\\TwitchHelixDriver.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:18:20.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TwitchConnections.cs",
               "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Services\\TwitchConnections.cs",
               "RelativeDocumentMoniker": "ZetaBridge.Core\\Services\\TwitchConnections.cs",
               "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Services\\TwitchConnections.cs",
               "RelativeToolTip": "ZetaBridge.Core\\Services\\TwitchConnections.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T04:23:19.246Z",
+              "WhenOpened": "2025-11-28T06:12:40.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZetaBridgeContext.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\Data\\ZetaBridgeContext.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.API\\Data\\ZetaBridgeContext.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\Data\\ZetaBridgeContext.cs",
+              "RelativeToolTip": "ZetaBridge.API\\Data\\ZetaBridgeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:01:53.247Z",
               "EditorCaption": ""
             }
           ]
