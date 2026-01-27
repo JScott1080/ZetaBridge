@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KoxISifzjiI=",
+  "dgSpecHash": "7Jm3faBpvdo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\zetabridge.api\\ZetaBridge.API.csproj",
+  "projectFilePath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\ZetaBridge.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zerop\\.nuget\\packages\\google.apis\\1.73.0\\google.apis.1.73.0.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\google.apis.auth\\1.73.0\\google.apis.auth.1.73.0.nupkg.sha512",

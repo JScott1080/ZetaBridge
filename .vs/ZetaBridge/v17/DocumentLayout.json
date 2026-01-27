@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\models\\collectiblecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\models\\collectiblecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\models\\viewerachievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\models\\viewerachievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\models\\grimoirevariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\models\\grimoirevariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\models\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\models\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|c:\\users\\zerop\\documents\\portfolio\\zetabridge\\zetabridge.core\\models\\grimoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B402E73-AD20-BCD0-FA6C-E01A5F170506}|ZetaBridge.Core\\ZetaBridge.Core.csproj|solutionrelative:zetabridge.core\\models\\grimoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectibleCategory.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\CollectibleCategory.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.Core\\Models\\CollectibleCategory.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\CollectibleCategory.cs",
+              "RelativeToolTip": "ZetaBridge.Core\\Models\\CollectibleCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:05:33.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Category.cs",
+              "RelativeToolTip": "ZetaBridge.Core\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:04:35.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewerAchievement.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\ViewerAchievement.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.Core\\Models\\ViewerAchievement.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\ViewerAchievement.cs",
+              "RelativeToolTip": "ZetaBridge.Core\\Models\\ViewerAchievement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:49:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Achievement.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Achievement.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.Core\\Models\\Achievement.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Achievement.cs",
+              "RelativeToolTip": "ZetaBridge.Core\\Models\\Achievement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:19:33.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GrimoireVariant.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\GrimoireVariant.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.Core\\Models\\GrimoireVariant.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\GrimoireVariant.cs",
+              "RelativeToolTip": "ZetaBridge.Core\\Models\\GrimoireVariant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:07:12.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grimoire.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Grimoire.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.Core\\Models\\Grimoire.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Grimoire.cs",
+              "RelativeToolTip": "ZetaBridge.Core\\Models\\Grimoire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:15:49.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Collectible.cs",
+              "DocumentMoniker": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Collectible.cs",
+              "RelativeDocumentMoniker": "ZetaBridge.Core\\Models\\Collectible.cs",
+              "ToolTip": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Core\\Models\\Collectible.cs",
+              "RelativeToolTip": "ZetaBridge.Core\\Models\\Collectible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:09:17.961Z",
+              "EditorCaption": ""
             }
           ]
         }
