@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\zetabridge.api\\ZetaBridge.API.csproj": {}
+    "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\ZetaBridge.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\zetabridge.api\\ZetaBridge.API.csproj": {
+    "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\ZetaBridge.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\zetabridge.api\\ZetaBridge.API.csproj",
+        "projectUniqueName": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\ZetaBridge.API.csproj",
         "projectName": "ZetaBridge.API",
-        "projectPath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\zetabridge.api\\ZetaBridge.API.csproj",
+        "projectPath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\ZetaBridge.API.csproj",
         "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\zetabridge.api\\obj\\",
+        "outputPath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -179,7 +179,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
