@@ -11,3 +11,16 @@ C:\Users\zerop\Documents\Portfolio\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\Z
 C:\Users\zerop\Documents\Portfolio\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\refint\ZetaBridge.Core.dll
 C:\Users\zerop\Documents\Portfolio\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ZetaBridge.Core.pdb
 C:\Users\zerop\Documents\Portfolio\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ref\ZetaBridge.Core.dll
+D:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ZetaBridge.Core.csproj.AssemblyReference.cache
+D:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ZetaBridge.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ZetaBridge.Core.AssemblyInfoInputs.cache
+D:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ZetaBridge.Core.AssemblyInfo.cs
+D:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ZetaBridge.Core.csproj.CoreCompileInputs.cache
+D:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ZetaBridge.Core.sourcelink.json
+D:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ZetaBridge.Core.dll
+D:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\refint\ZetaBridge.Core.dll
+D:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ZetaBridge.Core.pdb
+d:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\bin\Debug\net8.0\ZetaBridge.Core.deps.json
+d:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\bin\Debug\net8.0\ZetaBridge.Core.dll
+d:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\bin\Debug\net8.0\ZetaBridge.Core.pdb
+d:\Repositories\ZetaBridge\ZetaBridge\ZetaBridge.Core\obj\Debug\net8.0\ref\ZetaBridge.Core.dll

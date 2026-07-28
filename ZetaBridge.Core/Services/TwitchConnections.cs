@@ -1,4 +1,5 @@
-﻿using TwitchLib.Client;
+﻿using Microsoft.Extensions.Options;
+using TwitchLib.Client;
 using TwitchLib.Client.Enums;
 using TwitchLib.Client.Events;
 using TwitchLib.Client.Extensions;
@@ -16,12 +17,13 @@ namespace ZetaBridge.Core.Services
 
         public event EventHandler<ChatMessageEvent>? OnMessage;
 
-        public TwitchConnections(string username, string accessToken, string channel)
+        public TwitchConnections(IOptions<TwitchOptions> options)
         {
-            _channel = channel;
-            var credentials = new ConnectionCredentials(username, accessToken);
+            var opts = options.Value;
+            _channel = opts.Channel;
+            var credentials = new ConnectionCredentials(opts.BotUsername, opts.AccessToken);
             _client = new TwitchClient();
-            _client.Initialize(credentials, channel);
+            _client.Initialize(credentials, opts.Channel);
 
             _client.OnMessageReceived += Client_OnMessageReceived;
             _client.OnConnected += Client_OnConnected;
@@ -43,12 +45,6 @@ namespace ZetaBridge.Core.Services
         {
             if (_client.IsConnected)
                 await _client.SendMessageAsync(_client.JoinedChannels[0], message);
-        }
-
-        public async Task MakeAnnouncment()
-        {
-            if (_client.IsConnected)
-                await
         }
 
         private async Task Client_OnConnected(object? sender, OnConnectedEventArgs e)
@@ -80,7 +76,7 @@ namespace ZetaBridge.Core.Services
 
         private async Task Client_OnAnnouncment(object? sender, OnAnnouncementArgs e)
         {
-            Console.WriteLine($"Announcment made by: {sender.ToString}, stating: {e.Announcement}");
+            Console.WriteLine($"Announcment made by: {sender}, stating: {e.Announcement}");
         }
 
     }

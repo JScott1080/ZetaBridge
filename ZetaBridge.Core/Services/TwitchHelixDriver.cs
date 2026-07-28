@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Options;
 using TwitchLib.Api;
 using TwitchLib.Api.Helix.Models.Chat;
 using TwitchLib.Api.Helix.Models.Predictions;
@@ -20,17 +21,17 @@ namespace ZetaBridge.Core.Services
         string clientId;
         string broadcasterId;
 
-        public TwitchHelixDriver()
+        public TwitchHelixDriver(IOptions<TwitchOptions> options)
         {
-            accessToken = "YOUR_USER_ACCESS_TOKEN"; // Must have channel:manage:predictions scope
-            clientId = "YOUR_CLIENT_ID";
-            broadcasterId = "YOUR_BROADCASTER_ID";
+            var opts = options.Value;
+            accessToken = opts.AccessToken;
+            clientId = opts.ClientId;
+            broadcasterId = opts.BroadcasterId;
 
             twitchAPI = new TwitchAPI();
             twitchAPI.Settings.AccessToken = accessToken;
             twitchAPI.Settings.ClientId = clientId;
         }
-
 
         public async Task MakeAnAnnouncments(string newAnnouncment, string moderaterId)
         {

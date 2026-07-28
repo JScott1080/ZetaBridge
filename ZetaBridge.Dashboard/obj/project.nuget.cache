@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NzMXYNCVRo4=",
+  "dgSpecHash": "sGeiWtq9upg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.Dashboard\\ZetaBridge.Dashboard.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\Repositories\\ZetaBridge\\ZetaBridge\\ZetaBridge.Dashboard\\ZetaBridge.Dashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

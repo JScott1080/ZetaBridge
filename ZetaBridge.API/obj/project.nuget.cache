@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Jm3faBpvdo=",
+  "dgSpecHash": "yB6oVkewtLo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zerop\\Documents\\Portfolio\\ZetaBridge\\ZetaBridge.API\\ZetaBridge.API.csproj",
+  "projectFilePath": "d:\\Repositories\\ZetaBridge\\ZetaBridge\\ZetaBridge.API\\ZetaBridge.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zerop\\.nuget\\packages\\google.apis\\1.73.0\\google.apis.1.73.0.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\google.apis.auth\\1.73.0\\google.apis.auth.1.73.0.nupkg.sha512",
@@ -29,12 +29,12 @@
     "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
-    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.10\\microsoft.extensions.dependencyinjection.abstractions.10.0.10.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.logging\\8.0.1\\microsoft.extensions.logging.8.0.1.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
-    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.options\\10.0.10\\microsoft.extensions.options.10.0.10.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.10\\microsoft.extensions.primitives.10.0.10.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
@@ -121,7 +121,11 @@
     "C:\\Users\\zerop\\.nuget\\packages\\twitchlib.client\\4.0.1\\twitchlib.client.4.0.1.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\twitchlib.client.enums\\4.0.1\\twitchlib.client.enums.4.0.1.nupkg.sha512",
     "C:\\Users\\zerop\\.nuget\\packages\\twitchlib.client.models\\4.0.1\\twitchlib.client.models.4.0.1.nupkg.sha512",
-    "C:\\Users\\zerop\\.nuget\\packages\\twitchlib.communication\\2.0.1\\twitchlib.communication.2.0.1.nupkg.sha512"
+    "C:\\Users\\zerop\\.nuget\\packages\\twitchlib.communication\\2.0.1\\twitchlib.communication.2.0.1.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\zerop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
   ],
   "logs": []
 }

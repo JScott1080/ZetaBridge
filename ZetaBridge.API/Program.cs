@@ -11,12 +11,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton(sp =>
-    new TwitchConnections(
-        username: "your_bot_username",
-        accessToken: "your_access_token",
-        channel: "your_channel_name"
-    ));
+builder.Services.Configure<ZetaBridge.Core.TwitchOptions>(builder.Configuration.GetSection("Twitch"));
+builder.Services.AddSingleton<TwitchHelixDriver>();
+builder.Services.AddSingleton<TwitchConnections>();
 
 builder.Services.AddDbContext<ZetaBridgeContext>(options =>
     options.UseSqlite("Data Source=db/zetabridge.db"));
